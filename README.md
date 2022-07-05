@@ -2,7 +2,7 @@
 My name is Gráinne Ready.
 I'm a full time student studying Integrated Computer Science at Trinity College 🎓.
 I'm from Dublin, Ireland ☘
-Although I am a full time student, I also enjoy doing courses during my free time
+I also enjoy doing courses during my free time
 I'm currently focusing on Udemy's 100 Days of Code (Python) and the C Programming Bootcamp
 # 🛠 Languages I'm learning so far
 Java, Python, C, Verilog, R, Assembly (ARM)

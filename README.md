@@ -6,8 +6,8 @@ I'm from Dublin, Ireland ☘.
 I also enjoy doing courses during my free time.
 # 👩‍🔧 What I'm working on right now
 Detecting antipatterns in a c++ codebase
-# 🛠 Languages I'm learning at the moment
-C++, Python, C
+# 🛠 Languages I'm improving on at the moment
+C++, Python, C, Assembly
 # 📫 Reach Out To Me!
 [![linkedin](https://socialize-md.vercel.app/api/badge/linkedin)](https://www.linkedin.com/in/gr%C3%A1inne-ready-b318bb240/)
 [![mail](https://socialize-md.vercel.app/api/badge/mail)](mailto:readyg@tcd.ie)

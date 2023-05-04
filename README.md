@@ -5,7 +5,8 @@ I'm a full time student studying Integrated Computer Science at Trinity College 
 I'm from Dublin, Ireland ☘.
 I also enjoy doing courses during my free time.
 # 👩‍🔧 What I'm working on right now
-Detecting antipatterns in a c++ codebase
+Tic Tac Toe
+Pomodoro
 # 🛠 Languages I'm improving on at the moment
 C++, Python, C, Assembly, Java
 # 📫 Reach Out To Me!

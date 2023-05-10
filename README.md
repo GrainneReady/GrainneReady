@@ -5,8 +5,8 @@ I'm a full time student studying Integrated Computer Science at Trinity College 
 I'm from Dublin, Ireland ☘.
 I also enjoy doing courses during my free time.
 # 👩‍🔧 What I'm working on right now
-Tic Tac Toe, 
-Pomodoro
+Learning to make my own website!
+
 # 🛠 Languages I'm improving on at the moment
 C++, Python, C, Assembly, Java
 # 📫 Reach Out To Me!

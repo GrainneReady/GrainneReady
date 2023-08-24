@@ -1,4 +1,3 @@
-[![Gráinne's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrainneReady)](https://github.com/anuraghazra/github-readme-stats)
 # About Me 👋
 My name is Gráinne Ready.
 I'm a full time student studying Integrated Computer Science at Trinity College 🎓.

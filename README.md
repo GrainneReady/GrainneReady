@@ -1,5 +1,5 @@
 # About Me 👋
-My name is Gráinne Ready.
+My name is G Ready.
 I'm a full time student studying Integrated Computer Science at Trinity College 🎓.
 I'm from Dublin, Ireland ☘.
 
